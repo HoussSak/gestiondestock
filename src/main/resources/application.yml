@@ -1,0 +1,14 @@
+spring:
+  jpa:
+    defer-datasource-initialization: true
+    show-sql: true
+server:
+  port: 8881
+
+flickr:
+  apiKey: 2cab48649b3e1ec014b24533393f479a
+  apiSecret: bbff3651cf2b1b60
+  appKey: 72157720862559760-90090ea6f3df64c8
+  appSecret: 51d63727d591d4d7
+
+
